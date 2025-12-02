@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "銀河街の悪夢",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-02T11:47:52.687248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銀河街の悪夢",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/01_銀河街の悪夢_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "銀河街の悪夢 (Gingagai no Akumu)",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/02_銀河街の悪夢_(Gingagai_no_Akumu)_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀河街の悪夢",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_銀河街の悪夢_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "銀河街の悪夢 - Gingagainoakumu",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/04_銀河街の悪夢_-_Gingagainoakumu_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀河街の悪夢",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_銀河街の悪夢_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
